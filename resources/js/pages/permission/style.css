@@ -1,0 +1,4 @@
+.permission-form-button-panel {
+    display: flex;
+    justify-content: space-between;
+}
